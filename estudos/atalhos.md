@@ -15,4 +15,4 @@
 | Frame all (view -> Frame all) | ``` home ``` |
 | Frame selected (view -> Frame selected) | ``` numpad . ``` |
 | Zoom in  | ``` numpad + ``` |
-| Zoom out | ``` numpad | ``` |
+| Zoom out | ``` numpad - ``` |
