@@ -1,16 +1,39 @@
 # Blender - Menus e Janelas
 
-- Splash screen: Tela de abertura
-- Objetos iniciais: câmera (visualização da cena), cubo e ponto de luz (para quando renderizar)
-- Render: opções para renderizar
-  - Render Image: ver imagem da renderização
-- Workspace: maneira como os painéis estão organizados
-- Layout, Modeling, Scupting, ... são diferentes configurações de workspace
-  - Shading: materiais e texturas
+- **Splash screen**: Tela de abertura
 
-- Orientação básica:
-  - câmera na esquerda e luz na direita.
-  - eixo z azul aponta para o céu.
+## Objetos iniciais na cena 
+
+- câmera (visualização da cena)
+- cubo (objeto inicial)
+- ponto de luz (para quando renderizar)
+
+## Menus superiores
+
+Opções Básicas: 
+- Arquivo
+- Editar
+- Renderizar
+- Janela
+- Ajuda
+
+Organizações do workspace: 
+- Layout
+- Modeling
+- Scupting
+
+## organizar
+
+- Render: opções para renderizar
+- Render Image: ver imagem da renderização
+- Workspace: maneira como os painéis estão organizados
+
+- Shading: materiais e texturas
+
+## Orientação básica:
+
+- câmera na esquerda e luz na direita.
+- eixo z azul aponta para o céu.
 
 ## Algumas configurações
 
